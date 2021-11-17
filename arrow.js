@@ -11,7 +11,7 @@ const exclaim = function(str) {
 
 // arrow
 // declaration
-//expression
+expression
 
 
 
@@ -26,7 +26,7 @@ const exclaimTwo = str => {
   return str.toUpperCase() + '!!!'
 }
 
-//arrow
+arrow
 // declaration
 // expression
 
@@ -38,7 +38,7 @@ const exclaimTwo = str => {
 */
 
 const exclaimThree = str => console.log(`${str.toUpperCase()}!!!`)
-exclaimThree("YES")
+exclaimThree("yes")
 ////////// PROBLEM 3 //////////
 
 /*
@@ -51,7 +51,7 @@ function exclaimFour(str) {
 }
 
 // arrow
-//declaration
+declaration
 // expression
 
 
