@@ -11,7 +11,7 @@ const exclaim = function(str) {
 
 // arrow
 // declaration
-expression
+//expression <<<<<
 
 
 
@@ -26,7 +26,7 @@ const exclaimTwo = str => {
   return str.toUpperCase() + '!!!'
 }
 
-arrow
+//arrow <<<<<
 // declaration
 // expression
 
@@ -51,7 +51,7 @@ function exclaimFour(str) {
 }
 
 // arrow
-declaration
+//declaration <<<<<
 // expression
 
 
@@ -86,7 +86,7 @@ const jsNinja = () => "I am a JavaScript Ninja!"
     }
   }
 
-  compareNums(6,6)
+  compareNums(12,6)
 ////////// PROBLEM 6 //////////
 
 /*
